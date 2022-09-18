@@ -1,4 +1,4 @@
-package com.paulr.prettysunny.ui.theme
+package com.paulr.prettysunny.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
