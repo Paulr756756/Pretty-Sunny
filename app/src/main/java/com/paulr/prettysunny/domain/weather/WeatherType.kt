@@ -1,7 +1,7 @@
 package com.paulr.prettysunny.domain.weather
 
 import androidx.annotation.DrawableRes
-import com.paulr.pettysunny.R
+import com.paulr.prettysunny.R
 
 sealed class WeatherType(
     val weatherDesc: String,
